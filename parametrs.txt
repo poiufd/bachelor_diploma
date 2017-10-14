@@ -1,0 +1,18 @@
+болие лимение для трупа 5 кадров захвачено
+
+eps for neighborhood
+40
+eps for stable
+0.1
+eps for dynamic
+40
+eps for stopping
+1
+eps for stable finger
+2
+eps for stopping finger
+2
+
+
+
+что б собрать - не обнулять tt time_arr между
